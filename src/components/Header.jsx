@@ -3,7 +3,7 @@ import './Header.css';
 import foto from '../assets/human.png';
 import facebook from '../assets/Facebook.png';
 import instagram from '../assets/Instagram.png';
-import linkedin from '../assets/linkedin.png';
+import linkedin from '../assets/LinkedIn.png';
 import twitter from '../assets/Twitter.png';
 
 const Header = () => {
