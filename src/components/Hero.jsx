@@ -2,7 +2,7 @@ import React from 'react';
 import './Hero.css';
 import facebook from '../assets/Facebook.png';
 import instagram from '../assets/Instagram.png';
-import linkedin from '../assets/linkedin.png';
+import linkedin from '../assets/LinkedIn.png';
 import twitter from '../assets/Twitter.png';
 
 const Hero = () => {
