@@ -15,7 +15,7 @@ const Projects = () => {
     {
       id: 2,
       category: 'Web Design',
-      title: 'Business Landing Page Design',
+      title: 'Busines Landing Page Design',
       image: web2,
     },
     {
